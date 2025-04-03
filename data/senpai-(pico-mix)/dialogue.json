@@ -1,0 +1,156 @@
+{
+	"dialogue": [
+		{
+			"sound": "pixelText",
+			"speed": 0.05,
+			"portrait": "portrait-senpai",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ah, another lovely fair maiden has graced m-"
+		},
+		{
+			"sound": "pixelText",
+			"speed": 0.05,
+			"portrait": "portrait-senpai-bwuh",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Wait"
+		},
+		{
+			"sound": "pixelText",
+			"speed": 0.05,
+			"portrait": "portrait-senpai-bwuh",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ew."
+		},
+		{
+			"sound": "pixelText",
+			"speed": 0.05,
+			"portrait": "portrait-senpai-bwuh",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Who are you two?"
+		},
+		{
+			"sound": "pixelText",
+			"speed": 0.05,
+			"portrait": "portrait-nene",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'm Nene."
+		},
+		{
+			"sound": "pixelText",
+			"speed": 0.05,
+			"portrait": "portrait-nene",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "He's Pico."
+		},
+		{
+			"sound": "pixelText",
+			"speed": 0.05,
+			"portrait": "portrait-pico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey."
+		},
+		{
+			"sound": "pixelText",
+			"speed": 0.05,
+			"portrait": "portrait-senpai",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "My my, such odd, clothing..."
+		},
+		{
+			"sound": "pixelText",
+			"speed": 0.05,
+			"portrait": "portrait-senpai",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "How queer..."
+		},
+		{
+			"sound": "pixelText",
+			"speed": 0.05,
+			"portrait": "portrait-nene",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Look whos talking."
+		},
+		{
+			"sound": "pixelText",
+			"speed": 0.05,
+			"portrait": "portrait-senpai",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "And bringing a gun to school?"
+		},
+		{
+			"sound": "pixelText",
+			"speed": 0.05,
+			"portrait": "portrait-senpai",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "How uncouth!"
+		},
+		{
+			"sound": "pixelText",
+			"speed": 0.05,
+			"portrait": "portrait-senpai",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You've scared away all the lovely roses who enjoy my proformances so..."
+		},
+		{
+			"sound": "pixelText",
+			"speed": 0.05,
+			"portrait": "portrait-senpai",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Even if it IS fake, you know that's at least a 3 day suspension!"
+		},
+		{
+			"sound": "pixelText",
+			"speed": 0.05,
+			"portrait": "portrait-nene",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "No that's real it-"
+		},
+		{
+			"sound": "pixelText",
+			"speed": 0.05,
+			"portrait": "portrait-senpai",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'll enjoy telling the princibal right after I teach you what's stronger than bad manners."
+		},
+		{
+			"sound": "pixelText",
+			"speed": 0.05,
+			"portrait": "portrait-senpai",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "The beauty of song!"
+		},
+		{
+			"sound": "pixelText",
+			"speed": 0.05,
+			"portrait": "portrait-nene-peeved",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"sound": "pixelText",
+			"speed": 0.05,
+			"portrait": "portrait-pico-peeved",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		}
+	]
+}

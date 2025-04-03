@@ -1,0 +1,190 @@
+{
+	"camera_boyfriend": [
+		-200,
+		-100
+	],
+	"_editorMeta": {
+		"boyfriend": "bf-pixel",
+		"gf": "gf-pixel",
+		"dad": "senpai"
+	},
+	"girlfriend": [
+		529,
+		488
+	],
+	"stageUI": "pixel",
+	"boyfriend": [
+		891,
+		350
+	],
+	"defaultZoom": 1.05,
+	"objects": [
+		{
+			"x": -423,
+			"y": 102,
+			"scale": [
+				6,
+				6
+			],
+			"image": "week6-erect/weebSky",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "Sky",
+			"antialiasing": false,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -684,
+			"y": 14,
+			"scale": [
+				6,
+				6
+			],
+			"image": "week6-erect/weebBackTrees",
+			"flipX": false,
+			"filters": 2,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "School-trees-back",
+			"antialiasing": false,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -423,
+			"y": 26,
+			"scale": [
+				6,
+				6
+			],
+			"image": "week6-erect/weebSchool",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "School",
+			"antialiasing": false,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -423,
+			"y": 49,
+			"scale": [
+				6,
+				6
+			],
+			"image": "week6-erect/weebStreet",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "Ground",
+			"antialiasing": false,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -415,
+			"y": 29,
+			"scale": [
+				6,
+				6
+			],
+			"image": "week6-erect/weebTreesBack",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "Trees-back",
+			"antialiasing": false,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -1039,
+			"y": -1028,
+			"scale": [
+				6.05,
+				6
+			],
+			"image": "week6-erect/weebTrees",
+			"flipX": false,
+			"filters": 2,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "Trees-front",
+			"firstAnimation": "idle",
+			"antialiasing": false,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"offsets": null,
+					"loop": true,
+					"fps": 24,
+					"anim": "idle",
+					"indices": [],
+					"name": ""
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"camera_girlfriend": [
+		-250,
+		-300
+	],
+	"opponent": [
+		77,
+		112
+	],
+	"directory": "",
+	"camera_speed": 1,
+	"hide_girlfriend": false,
+	"camera_opponent": [
+		0,
+		0
+	]
+}

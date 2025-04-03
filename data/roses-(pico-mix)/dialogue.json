@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"sound": "pixelText",
+			"speed": 0.05,
+			"portrait": "portrait-senpai-angry",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You discusting orange boy and your awful way of 'singing'."
+		},
+		{
+			"sound": "pixelText",
+			"speed": 0.05,
+			"portrait": "portrait-senpai-angry",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You'll ruin the neighborhood acting like that."
+		},
+		{
+			"sound": "pixelText",
+			"speed": 0.05,
+			"portrait": "portrait-senpai-angry",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Keep at it and I'll knock your teeth  out right after I knock your ugly girlfriend up."
+		},
+		{
+			"sound": "pixelText",
+			"speed": 0.05,
+			"portrait": "portrait-pico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "She's not my girlfriend, do whatever you want with her."
+		},
+		{
+			"sound": "pixelText",
+			"speed": 0.05,
+			"portrait": "portrait-senpai-angry",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'll enjoy you both cry like dogs once I tell the athorities you brought a fake gun to school!"
+		},
+		{
+			"sound": "pixelText",
+			"speed": 0.05,
+			"portrait": "portrait-nene",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Lets kill this guy."
+		},
+		{
+			"sound": "pixelText",
+			"speed": 0.05,
+			"portrait": "portrait-pico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Deal."
+		}
+	]
+}

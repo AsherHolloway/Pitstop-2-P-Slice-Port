@@ -1,0 +1,25 @@
+{
+	"position": [
+		250,
+		190
+	],
+	"dialogue_pos": "right",
+	"no_antialiasing": true,
+	"scale": 7,
+	"image": "portrait-pico-peeved",
+	"animations": [
+		{
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_offsets": [
+				-1,
+				-12
+			],
+			"anim": "talk",
+			"idle_name": "portraitTalk0",
+			"loop_name": "portraitTalk0"
+		}
+	]
+}

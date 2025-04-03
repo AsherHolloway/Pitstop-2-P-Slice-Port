@@ -1,0 +1,138 @@
+{
+	"camera_boyfriend": [
+		0,
+		0
+	],
+	"_editorMeta": {
+		"boyfriend": "pico-pixel",
+		"gf": "nene-pixel",
+		"dad": "spirit"
+	},
+	"girlfriend": [
+		371,
+		26
+	],
+	"stageUI": "pixel",
+	"boyfriend": [
+		744,
+		173
+	],
+	"defaultZoom": 1.05,
+	"objects": [
+		{
+			"x": -292,
+			"y": 43,
+			"scale": [
+				6,
+				6
+			],
+			"image": "week6-erect/evilSchoolBG",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite1",
+			"antialiasing": false,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 258,
+			"y": 639,
+			"scale": [
+				6,
+				6
+			],
+			"image": "characters/week6-pico/abotPixel/abotHead",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "Head-abot",
+			"firstAnimation": "idle",
+			"antialiasing": false,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"loop": true,
+					"offsets": null,
+					"anim": "idle",
+					"fps": 24,
+					"name": "toleft0",
+					"indices": [
+						2,
+						2
+					]
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"x": 245,
+			"y": 552,
+			"scale": [
+				6,
+				6
+			],
+			"image": "characters/week6-pico/abotPixel/aBotPixel",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "Pixel-abot",
+			"firstAnimation": "idle",
+			"antialiasing": false,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"offsets": null,
+					"loop": true,
+					"fps": 24,
+					"anim": "idle",
+					"indices": [],
+					"name": "idle"
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"camera_girlfriend": [
+		0,
+		0
+	],
+	"opponent": [
+		77,
+		112
+	],
+	"directory": "week6",
+	"camera_speed": 1,
+	"hide_girlfriend": false,
+	"camera_opponent": [
+		0,
+		0
+	]
+}

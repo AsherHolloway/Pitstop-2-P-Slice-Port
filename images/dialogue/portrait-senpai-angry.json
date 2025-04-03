@@ -1,0 +1,25 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		250,
+		210
+	],
+	"no_antialiasing": true,
+	"scale": 7,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				-1,
+				-12
+			],
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_name": "portraitTalk0",
+			"idle_name": "portraitTalk0"
+		}
+	],
+	"image": "portrait-senpai-angry"
+}

@@ -1,0 +1,69 @@
+{
+	"camera_boyfriend": [
+		-250,
+		-100
+	],
+	"_editorMeta": {
+		"boyfriend": "bf-pixel",
+		"gf": "gf-pixel",
+		"dad": "spirit"
+	},
+	"girlfriend": [
+		554,
+		484
+	],
+	"stageUI": "pixel",
+	"boyfriend": [
+		1012,
+		354
+	],
+	"defaultZoom": 1.05,
+	"objects": [
+		{
+			"x": -292,
+			"y": 43,
+			"scale": [
+				6,
+				6
+			],
+			"image": "week6-erect/evilSchoolBG",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite1",
+			"antialiasing": false,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"camera_girlfriend": [
+		0,
+		0
+	],
+	"opponent": [
+		77,
+		112
+	],
+	"directory": "week6",
+	"camera_speed": 1,
+	"hide_girlfriend": false,
+	"camera_opponent": [
+		0,
+		0
+	]
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="spritesheet.png">
+	<SubTexture name="portraitTalk0000" x="63" y="51" width="63" height="51" frameX="4" frameY="7" frameWidth="63" frameHeight="51" />
+</TextureAtlas>

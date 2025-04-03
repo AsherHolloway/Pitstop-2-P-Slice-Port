@@ -1,0 +1,87 @@
+{
+	"animations": [
+		{
+			"offsets": [-392, -263],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [-399, -263],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "upmiss"
+		},
+		{
+			"offsets": [-392, -263],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "rightmiss"
+		},
+		{
+			"offsets": [-385, -263],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "downmiss"
+		},
+		{
+			"loop": false,
+			"offsets": [-392, -263],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "leftmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-385, -263],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+		},
+		{
+			"loop": false,
+			"offsets": [-399, -263],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+		},
+		{
+			"loop": false,
+			"offsets": [-392, -264],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+		},
+		{
+			"loop": false,
+			"offsets": [-392, -263],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/week6-pico/picoPixel",
+	"position": [-140, 200],
+	"healthicon": "pico-p",
+	"flip_x": true,
+	"healthbar_colors": [136, 255, 88],
+	"camera_position": [200, 40],
+	"sing_duration": 4,
+	"scale": 7,
+	"_editor_isPlayer": true
+}
