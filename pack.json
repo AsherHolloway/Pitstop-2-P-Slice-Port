@@ -1,6 +1,6 @@
 {
-	"name": "Pitstop 2",
-	"description": "Pitstop 2",
+	"name": "Pitstop 2 P-Slice Port V1.0.0",
+	"description": "This modpack adds all new fnf pitstop update songs and some other stuff too.",
 	"restart":false,
 	"runsGlobally": true,
 	"color": [170, 0, 255],
