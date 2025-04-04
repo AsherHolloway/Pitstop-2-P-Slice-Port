@@ -1,0 +1,39 @@
+{
+	"animations": [
+		{
+			"offsets": [-397, -263],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "firstDeath"
+		},
+		{
+			"offsets": [-397, -263],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "deathLoop"
+		},
+		{
+			"offsets": [-397, -263],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "deathConfirm"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/week6-pico/picoPixel",
+	"position": [-140, 200],
+	"healthicon": "pico-pixel",
+	"flip_x": true,
+	"healthbar_colors": [136, 255, 88],
+	"camera_position": [200, 40],
+	"sing_duration": 4,
+	"scale": 7,
+	"_editor_isPlayer": true
+}

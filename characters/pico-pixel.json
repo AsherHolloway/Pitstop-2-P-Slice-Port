@@ -77,7 +77,7 @@
 	"no_antialiasing": true,
 	"image": "characters/week6-pico/picoPixel",
 	"position": [-140, 200],
-	"healthicon": "pico-p",
+	"healthicon": "pico-pixel",
 	"flip_x": true,
 	"healthbar_colors": [136, 255, 88],
 	"camera_position": [200, 40],

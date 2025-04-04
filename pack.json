@@ -1,5 +1,5 @@
 {
-	"name": "Pitstop 2 P-Slice Port V1.0.0",
+	"name": "Pitstop 2 P-Slice Port V1.1.1",
 	"description": "This modpack adds all new fnf pitstop update songs and some other stuff too.",
 	"restart":false,
 	"runsGlobally": true,
@@ -7,3 +7,4 @@
 	"discordRPC": "863222024192262205",
 	"iconFramerate": 10
 }
+
